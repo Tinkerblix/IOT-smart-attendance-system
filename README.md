@@ -40,13 +40,6 @@ Attendance records are updated in real-time on the Firebase Realtime Database.
 Web Interface
 Access the web interface to view and manage attendance records. Open the Firebase console and configure the necessary security rules to ensure secure access.
 
-Contributing
-Contributions are welcome! Please follow the contribution guidelines.
-
-License
-This project is licensed under the MIT License.
-
 Acknowledgments
 Thanks to the open-source community for providing libraries and resources.
 Inspiration from similar projects and implementations.
-Feel free to customize this README according to your project's specific details.# IOT-smart-attendance-system
