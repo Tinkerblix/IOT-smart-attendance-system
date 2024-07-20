@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/smart-attendance-system.git
+git clone https://github.com/Tinkerblix/IOT-smart-attendance-system.git
 Open the Arduino IDE and navigate to the project folder.
 
 Install the necessary libraries using the Arduino Library Manager.
