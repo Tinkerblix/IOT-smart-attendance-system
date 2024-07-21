@@ -1,17 +1,17 @@
-Overview
+
 This project implements a Smart Attendance System using the ESP8266 NodeMCU, RFID module, and Firebase Realtime Database. The system allows for efficient tracking of attendance by using RFID cards/tags for user identification and storing attendance data in real-time on Firebase.
 
-Features
+Features:
 RFID-based user identification for check-in and check-out.
 Real-time attendance tracking on Firebase.
 Web interface for monitoring attendance records.
 Easy integration with existing databases and systems.
-Components
+Components:
 ESP8266 NodeMCU: Acts as the microcontroller and connects to both the RFID module and the Firebase Realtime Database.
 RFID Module: Reads RFID cards/tags for user identification.
 Firebase Realtime Database: Stores and manages attendance records.
-Getting Started
-Prerequisites
+
+Prerequisites:
 Arduino IDE installed.
 Required libraries for ESP8266, RFID, and Firebase.
 Installation
